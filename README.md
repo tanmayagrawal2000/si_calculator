@@ -1,16 +1,8 @@
-# si_calculator
+# Simple Interest Calculator ![](https://img.shields.io/badge/-Dart-blue)
 
-Simple Interst Calculator
+A simple interest calculator made using flutter framework.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Samsung Galaxy Note 10 Screenshot 2_thumbnail](https://user-images.githubusercontent.com/53507833/199319649-9e7fa89c-54d6-4858-bbdd-1b3e0b72d297.png)
